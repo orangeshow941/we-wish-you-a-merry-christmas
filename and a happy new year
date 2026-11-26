@@ -1,0 +1,4 @@
+class stydent:
+    gr = 6
+    print("hello Im a student from a school and i am in grade", gr)
+okj= stydent()
